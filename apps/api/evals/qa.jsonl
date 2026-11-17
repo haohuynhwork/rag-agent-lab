@@ -1,0 +1,8 @@
+{"question": "How long do customers have to request a full refund?", "source": "handbook.md", "keywords": ["30 days"]}
+{"question": "What do customers get after the refund window closes?", "source": "handbook.md", "keywords": ["store credit"]}
+{"question": "When is support available?", "source": "handbook.md", "keywords": ["Monday", "Friday"]}
+{"question": "How much is the Starter plan?", "source": "handbook.md", "keywords": ["12"]}
+{"question": "Which port does Ollama listen on?", "source": "ollama-notes.md", "keywords": ["11434"]}
+{"question": "How is similarity between embeddings measured?", "source": "ollama-notes.md", "keywords": ["cosine"]}
+{"question": "What happens after a model requests a tool call?", "source": "ollama-notes.md", "keywords": ["tool message"]}
+{"question": "Who won the 1998 football world cup?", "source": null, "keywords": []}
